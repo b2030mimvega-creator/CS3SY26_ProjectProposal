@@ -3,7 +3,7 @@
 
 ## Project Proposal Template:
 
-### Project Title or Name of the Application	: Quiz Bot
+### Project Title or Name of the Application	: PyCard: a Flashcard Algorithm
 ### Section			   	      : 9-Cesium
 ### Group Members			    : DE BELEN, HUMARANG, VEGA
 ### Date (Proposal Date)  : Nov 12, 2026
