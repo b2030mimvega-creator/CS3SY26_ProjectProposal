@@ -90,38 +90,38 @@ Returns the question type of the cards in the deck to show what types of questio
 Class 3: Quiz
 Attributes:
 
-User: The name of the user taking the quiz/review session
+- User: The name of the user taking the quiz/review session
 
-Decks: the deck/s going to be used for the quiz
+- Decks: the deck/s going to be used for the quiz
 
-Score: the tally of correct answers the user was able to give
+- Score: the tally of correct answers the user was able to give
 
-Missed: A list containing all the flashcards that the user answered incorrectly for future use
+- Missed: A list containing all the flashcards that the user answered incorrectly for future use
 
-Time_taken: a float variable to determine how long the quiz has been going on
+- Time_taken: a float variable to determine how long the quiz has been going on
 
-Time_limit: the time limit where the quiz has to be completed. If zero, then the quiz is untimed
+- Time_limit: the time limit where the quiz has to be completed. If zero, then the quiz is untimed
 
 
 Methods:
 
-deck_summary()
+- deck_summary()
 
 Displays the summary of the deck chosen to the user (number of cards, subjects included, types of questions included, and difficulty level)
 
-start_quiz()
+- start_quiz()
 
 Loops through Deck_used.Cards and displays all the prompts and questions on the flashcards, calls the check_answer method of the flashcards, then updates the score and missed attributes of the Quiz class
 
-percent_score()
+- percent_score()
 
 Returns a calculated percent score of the user based on their correct answers
 
-display_summary()
+- display_summary()
 
 Shows the user the summary of that review session, their score, their percent score, their time taken, and a list of all the things they got wrong and the proper answers to them
 
-end_quiz()
+- end_quiz()
 
 Stops the quiz and the loop after the review session is completed
 
@@ -131,11 +131,10 @@ Stops the quiz and the loop after the review session is completed
 
 Class Interactions:
 
-The Deck class uses aggregation to store and different Flashcard objects to be used for the review sessions
+- The Deck class uses aggregation to store and different Flashcard objects to be used for the review sessions
 
-The Quiz class directly uses and interacts with the Deck class by retrieving cards from it and shuffling it. The Quiz class also repeatedly calls methods of the Flashcard class to check the user’s answer.
+- The Quiz class directly uses and interacts with the Deck class by retrieving cards from it and shuffling it. The Quiz class also repeatedly calls methods of the Flashcard class to check the user’s answer.
 
-Goals and Objectives:
 
 
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
