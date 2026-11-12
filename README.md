@@ -28,6 +28,10 @@ Attributes:
 - record: a list of all the past scores of the user
 - quizzes_answered: a list containing the all the quizzes that the user has already completed
 
+Methods:
+- view_progress()
+displays the user's scores for all past quizzes and highlights highest percentage score as a high score
+
 Class 2: Flashcard
 
 Attributes:
