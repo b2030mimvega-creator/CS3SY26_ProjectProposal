@@ -37,9 +37,10 @@ Attributes:
 
 Methods:
 
-- check_answer(input): Compares a user input to the flashcard’s answer attribute and returns True if it matches and False if not
-
-- get_hint(): Returns a letter/segment of the expected answer to provide a hint to the user
+- check_answer(input)
+Compares a user input to the flashcard’s answer attribute and returns True if it matches and False if not
+- get_hint()
+Returns a letter/segment of the expected answer to provide a hint to the user
 
 
 
