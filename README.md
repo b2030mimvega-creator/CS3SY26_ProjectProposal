@@ -24,15 +24,15 @@ System Components (classes, methods, object interactions)
 Class 1: Flashcard
 Attributes:
 
-Question: The prompt/question displayed to the user
+- Question: The prompt/question displayed to the user
 
-Answer: The correct answer to the given question
+- Answer: The correct answer to the given question
 
-Subject: The subject where the question falls under
+- Subject: The subject where the question falls under
 
-Difficulty: A scale to determine the difficulty of the question (Easy, Medium, Hard)
+- Difficulty: A scale to determine the difficulty of the question (Easy, Medium, Hard)
 
-Question_type: The type of question given on the flashcard (Multiple Choice, True or False, Short Response)
+- Question_type: The type of question given on the flashcard (Multiple Choice, True or False, Short Response)
 
 
 Methods:
