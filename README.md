@@ -156,8 +156,13 @@ Class Interactions:
 
 Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
 
-- Objective 1:
-- Objective 2:
-- Objective n:
+- Objective 1: Develop an accessible and easy-to-use algorithm
+- Objective 2: Allow students to make and study custom decks
+- Objective 3: Create clear prompts and questions
+- Objective 4: Help students improve through mistake review and correction
+- Objective 5: Validate usability and learning impact
+
+
+
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
