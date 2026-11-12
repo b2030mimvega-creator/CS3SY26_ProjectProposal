@@ -2,12 +2,12 @@
 
 
 ## Project Proposal Template:
-cvbbbc
+
 ### Project Title or Name of the Application	:
 ### Section			   	      :9-Cesium
 ### Group Members			    :DE BELEN, HUMARANG, VEGA
 ### Date (Proposal Date)  : Nov 12, 2026
-fdfhdfhfshsdhfhhtrthdfh
+
 ### Project Description:
 
 Nowadays, high school students have to prepare for countless exams: Mid-quarter exams and finals over many different subjects. So finding effective studying methods are important to perform well. One example is the use of flashcards, this provides the student with an interactive aspect to help them better understand and remember what they are studying as opposed to static studying like reading notes or textbooks. However, physical flashcards can get misplaced or cluttered, our project aims to create a digital version that retains all the studying benefits of regular flashcards while removing the uncertainties of the physical counterpart.
