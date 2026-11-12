@@ -22,6 +22,7 @@ Students preparing for exams
 System Components (classes, methods, object interactions)
 
 Class 1: Flashcard
+
 Attributes:
 
 - Question: The prompt/question displayed to the user
@@ -49,6 +50,8 @@ Returns a letter/segment of the expected answer to provide a hint to the user
 
 
 Class 2: Deck
+
+
 Attributes:
 
 - Name: The name of the deck for future reference
@@ -88,6 +91,7 @@ Returns the question type of the cards in the deck to show what types of questio
 
 
 Class 3: Quiz
+
 Attributes:
 
 - User: The name of the user taking the quiz/review session
