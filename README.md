@@ -47,37 +47,37 @@ Methods:
 Class 2: Deck
 Attributes:
 
-Name: The name of the deck for future reference
+- Name: The name of the deck for future reference
 
-Cards: A list containing the contents or the individual flashcard classes in the deck
+- Cards: A list containing the contents or the individual flashcard classes in the deck
 
 
 Methods:
-add_card(card)
+- add_card(card)
 
 Appends another given flashcard class to the Cards attribute of the deck
 
-remove_card(index)
+- remove_card(index)
 
 Removes a card from the Cards attribute of the deck with the specific given index
 
-shuffle_deck()
+- shuffle_deck()
 
 Randomly arranges the contents of the Cards attribute of the deck before a review session begins
 
-get_total_cards()
+- get_total_cards()
 
 Returns the total number of cards in the deck
 
-get_subjects()
+- get_subjects()
 
 Returns the subjects in the subject attribute of the cards in the Cards attribute of the deck to find out what subjects the review session will cover
 
-get_difficulty()
+- get_difficulty()
 
 Returns the difficulty level of each card in the deck to show how difficult the cards are in the quiz
 
-get_type()
+- get_type()
 
 Returns the question type of the cards in the deck to show what types of questions are in the quiz
 
