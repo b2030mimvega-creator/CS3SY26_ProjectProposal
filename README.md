@@ -21,6 +21,7 @@ System Components (classes, methods, object interactions)
 
 Class 1: Flashcard
 Attributes:
+
 Question: The prompt/question displayed to the user
 
 Answer: The correct answer to the given question
@@ -32,6 +33,7 @@ Difficulty: A scale to determine the difficulty of the question (Easy, Medium, H
 Question_type: The type of question given on the flashcard (Multiple Choice, True or False, Short Response)
 
 Methods:
+
 check_answer(input)
 
 Compares a user input to the flashcard’s answer attribute and returns True if it matches and False if not
@@ -43,6 +45,7 @@ Returns a letter/segment of the expected answer to provide a hint to the user
 
 Class 2: Deck
 Attributes:
+
 Name: The name of the deck for future reference
 
 Cards: A list containing the contents or the individual flashcard classes in the deck
