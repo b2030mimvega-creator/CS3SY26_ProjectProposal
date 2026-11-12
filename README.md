@@ -21,7 +21,14 @@ Students preparing for exams
 
 System Components (classes, methods, object interactions)
 
-Class 1: Flashcard
+Class 1: User
+
+Attributes:
+- Username: the name of the user
+- record: a list of all the past scores of the user
+- quizzes_answered: a list containing the all the quizzes that the user has already completed
+
+Class 2: Flashcard
 
 Attributes:
 
@@ -49,7 +56,7 @@ Returns a letter/segment of the expected answer to provide a hint to the user
 
 
 
-Class 2: Deck
+Class 3: Deck
 
 
 Attributes:
@@ -90,7 +97,7 @@ Returns the question type of the cards in the deck to show what types of questio
 
 
 
-Class 3: Quiz
+Class 4: Quiz
 
 Attributes:
 
