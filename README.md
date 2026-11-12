@@ -22,7 +22,7 @@ System Components (classes, methods, object interactions)
 Class 1: Flashcard
 Attributes:
 
-Question: The prompt/question displayed to the user
+&emsp Question: The prompt/question displayed to the user
 
 Answer: The correct answer to the given question
 
