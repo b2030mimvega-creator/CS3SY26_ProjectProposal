@@ -17,6 +17,8 @@ Our digital flashcard quizbot is a python-based object-oriented application mean
 Target Demographic:
 Students preparing for exams
 
+
+
 System Components (classes, methods, object interactions)
 
 Class 1: Flashcard
@@ -32,6 +34,7 @@ Difficulty: A scale to determine the difficulty of the question (Easy, Medium, H
 
 Question_type: The type of question given on the flashcard (Multiple Choice, True or False, Short Response)
 
+
 Methods:
 
 check_answer(input)
@@ -43,12 +46,15 @@ get_hint()
 Returns a letter/segment of the expected answer to provide a hint to the user
 
 
+
+
 Class 2: Deck
 Attributes:
 
 Name: The name of the deck for future reference
 
 Cards: A list containing the contents or the individual flashcard classes in the deck
+
 
 Methods:
 add_card(card)
@@ -77,8 +83,9 @@ Returns the difficulty level of each card in the deck to show how difficult the 
 
 get_type()
 
-
 Returns the question type of the cards in the deck to show what types of questions are in the quiz
+
+
 
 Class 3: Quiz
 Attributes:
@@ -94,6 +101,7 @@ Missed: A list containing all the flashcards that the user answered incorrectly 
 Time_taken: a float variable to determine how long the quiz has been going on
 
 Time_limit: the time limit where the quiz has to be completed. If zero, then the quiz is untimed
+
 
 Methods:
 
@@ -116,6 +124,8 @@ Shows the user the summary of that review session, their score, their percent sc
 end_quiz()
 
 Stops the quiz and the loop after the review session is completed
+
+
 
 
 
