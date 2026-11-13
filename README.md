@@ -151,7 +151,7 @@ Class Interactions:
 - The Quiz class directly uses and interacts with the Deck class by retrieving cards from it and shuffling it. The Quiz class also repeatedly calls methods of the Flashcard class to check the user’s answer.
 
 
-![UML Diagram](https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/d42vbqsz9plcii8lgsnx)
+![UML Diagram](https://ibb.co/sdR90v0F)
 
 ### Goals:
 
