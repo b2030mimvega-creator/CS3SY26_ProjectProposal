@@ -156,7 +156,7 @@ Class Interactions:
 
 ### Goals:
 
-Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
+Our goal is to develop an accessible and easy-to-use algorithm for high school students all over the world. We want to help students study efficiently and effectively by allowing them to make and study decks and by creating clear prompts and questions for the general flashcards. Not only that, we also want to help students improve through mistake review and correction. Lastly, with the objectives stated, we want to validate the usability of our algorithm as well as its learning impact.
 
 - Objective 1: Develop an accessible and easy-to-use algorithm
 - Objective 2: Allow students to make and study custom decks
