@@ -1,3 +1,4 @@
+<img width="1281" height="748" alt="1" src="https://github.com/user-attachments/assets/787fcbd0-4c6d-4431-82e0-9300b4e1887d" />
 # CS3SY26_ProjectProposal by Aline Teresa Mendoza from CS Unit of PSHS
 
 
